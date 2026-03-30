@@ -102,10 +102,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/zuucrew/context-engineering"
-Documentation = "https://github.com/zuucrew/context-engineering#readme"
-Repository = "https://github.com/zuucrew/context-engineering"
-Issues = "https://github.com/zuucrew/context-engineering/issues"
+Homepage = "https://github.com/thilankadw/Real_Estate_Intelligence_Platform_for_Prime-Lands"
+Documentation = "https://github.com/thilankadw/Real_Estate_Intelligence_Platform_for_Prime-Lands#readme"
+Repository = "https://github.com/thilankadw/Real_Estate_Intelligence_Platform_for_Prime-Lands"
+Issues = "https://github.com/thilankadw/Real_Estate_Intelligence_Platform_for_Prime-Lands/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
