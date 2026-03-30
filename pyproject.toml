@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Intelligent AI Platform for Prime Lands"
 readme = "README.md"
 license = { text = "MIT" }
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 authors = [
     { name = "Thilanka" }
 ]
@@ -29,8 +29,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
     "Topic :: Education",
@@ -231,7 +229,7 @@ markers = [
 # Coverage - Code Coverage
 # ========================================
 [tool.coverage.run]
-source = ["src/context_engineering"]
+source = ["src"]
 branch = true
 omit = [
     "*/tests/*",
