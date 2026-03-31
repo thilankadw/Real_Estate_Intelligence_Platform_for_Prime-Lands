@@ -1,0 +1,60 @@
+# Frequently Asked Questions for Prime Lands
+# These FAQs are used for semantic caching in the CAG system
+
+general:
+  - "What is Prime Lands?"
+  - "Where is Prime Lands located?"
+  - "How long has Prime Lands been in business?"
+  - "What services does Prime Lands provide?"
+  - "How can I contact Prime Lands?"
+
+properties:
+  - "What types of properties does Prime Lands offer?"
+  - "Do you have lands for sale?"
+  - "Do you have houses for sale?"
+  - "Do you have apartments for sale?"
+  - "What are the current property listings?"
+  - "What is the price range for your properties?"
+  - "Are there any ongoing apartment projects?"
+  - "What upcoming projects does Prime Lands have?"
+
+locations:
+  - "In which districts does Prime Lands operate?"
+  - "Do you have properties in Colombo?"
+  - "Do you have properties in Malabe?"
+  - "Do you have properties in Kottawa?"
+  - "Do you have properties in Kalutara?"
+  - "Do you have properties in Negombo?"
+
+services:
+  - "Does Prime Lands offer property valuation?"
+  - "Can I sell my land through Prime Lands?"
+  - "What is the process for buying a property?"
+  - "Do you provide financing options?"
+  - "What are the payment plans available?"
+
+specific_projects:
+  - "Tell me about Saffron Malabe"
+  - "What is the price of City Link Kiriwaththuduwa?"
+  - "Tell me about Zenza Ganemulla"
+  - "What is Luxora Kiribathgoda?"
+  - "Tell me about Eldoria Malkaduwawa"
+  - "What is Dagny Godagama?"
+  - "Tell me about Elisora Kalutara"
+  - "What is Novara Kadawatha?"
+  - "Tell me about The Mansion Nawala"
+  - "What is Courtyard by Prime Samagi Mawatha Thalawathugoda?"
+  - "Tell me about Kaloora Kalutara"
+  - "What is Viva La Vida Kottawa?"
+  - "Tell me about Cest La Vie Thalawathugoda"
+  - "What is Gampaha Elemint Suites?"
+  - "Tell me about Kahathuduwa 88 Residence"
+  - "What is Digana Scottish Island?"
+  - "Tell me about Skye Blossom Kottawa"
+  - "What is Yolo Kiribathgoda?"
+  - "Tell me about The Reflection Samagi Mawatha Thalawathugoda"
+  - "What is Mon Vie Colombo 05?"
+  - "Tell me about J Adore Negombo"
+  - "What is The Seasons Colombo 08?"
+  - "Tell me about The Colombo Border Peliyagoda"
+  - "What is Gampaha The Palace?"

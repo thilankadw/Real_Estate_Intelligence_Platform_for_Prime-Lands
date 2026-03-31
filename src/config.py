@@ -157,26 +157,26 @@ CAG_HISTORY_TTL_HOURS = _get_nested(_CONFIG, "cag", "history_ttl_hours", default
 # FAQ Loading
 # ========================================
 
-# def load_faqs() -> list:
-#     """
-#     Load the flattened FAQ question list from ``config/faqs.yaml``.
+def load_faqs() -> list:
+    """
+    Load the flattened FAQ question list from ``config/faqs.yaml``.
 
-#     Returns:
-#         A list of question strings aggregated across all FAQ categories.
-#     """
-#     faqs_config = _load_yaml("faqs.yaml")
-#     all_faqs = []
+    Returns:
+        A list of question strings aggregated across all FAQ categories.
+    """
+    faqs_config = _load_yaml("faqs.yaml")
+    all_faqs = []
     
-#     # Flatten all categories into a single list
-#     for category, questions in faqs_config.items():
-#         if isinstance(questions, list):
-#             all_faqs.extend(questions)
+    # Flatten all categories into a single list
+    for category, questions in faqs_config.items():
+        if isinstance(questions, list):
+            all_faqs.extend(questions)
     
-#     return all_faqs
+    return all_faqs
 
 
 # Pre-load FAQs for easy access
-# KNOWN_FAQS = load_faqs()
+KNOWN_FAQS = load_faqs()
 
 # ========================================
 # CRAG Configuration
