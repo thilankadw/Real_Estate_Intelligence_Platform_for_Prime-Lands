@@ -17,6 +17,7 @@ langchain-core>=0.1.0             # Core abstractions (prompts, runnables)
 langchain-community>=0.0.20       # Community integrations (includes Chroma)
 langchain-openai>=0.0.5           # OpenAI LangChain integration (Chat + Embeddings)
 langchain-text-splitters>=0.2.0   # Text chunking utilities (semantic & fixed)
+langchain-qdrant>=0.0.9           # LangChain Qdrant adapter
 
 # ========================================
 # Web Crawling and Content Extraction
@@ -31,6 +32,7 @@ nest-asyncio>=1.5.0               # Enable nested asyncio loops in Jupyter
 # Vector Store and Semantic Search
 # ========================================
 chromadb>=0.4.22                  # Lightweight embedded vector database
+qdrant-client>=1.9.0              # Qdrant vector database client
 sentence-transformers>=2.3.1      # Optional: for local embeddings
 
 # ========================================

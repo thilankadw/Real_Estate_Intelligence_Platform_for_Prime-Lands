@@ -7,7 +7,27 @@ Provides:
 """
 
 from .web_crawler import PrimeLandsWebCrawler
+from .chunkers import (
+    ChunkingService,
+    semantic_chunk,
+    fixed_chunk,
+    sliding_chunk,
+    parent_child_chunk,
+    late_chunk_index,
+    late_chunk_split,
+    count_tokens
+)
 
 __all__ = [
+    # Chunking
+    "ChunkingService",
+    "semantic_chunk",
+    "fixed_chunk",
+    "sliding_chunk",
+    "parent_child_chunk",
+    "late_chunk_index",
+    "late_chunk_split",
+    "count_tokens",
+    #Crawling
     "PrimeLandsWebCrawler",
 ]
